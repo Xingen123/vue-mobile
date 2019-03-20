@@ -1,6 +1,4 @@
-# 移动端脚手架说明
-
-> A Vue.js project
+# 移动端集成式脚手架说明
 
 ## Build Setup
 
